@@ -1,2 +1,2 @@
 # ups-delivery-day
-streamline ups workflow
+app that streamlines ups workflow via virtual agent
